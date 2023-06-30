@@ -1,0 +1,182 @@
+/* CSS Reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    vertical-align: baseline;
+    width: 450px;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    -webkit-text-size-adjust: none;
+}
+*,
+*::before,
+*::after {
+         box-sizing: border-box;
+}
+
+div.logo{
+    background-color: black;
+     width:450px;
+    }
+    
+    .logo>img{
+        width: 150px;
+         height: auto;
+         margin: 20px 150px 20px;
+        
+}
+
+
+.header{ background-image: url(/images/banner.jpg);
+
+background-size: 100% 100%;
+}
+
+
+
+
+
+
+h1{
+     font-family:'Montserrat';
+     font-size: 40px;
+     font-weight: bold;
+     line-height: 1;
+     color: #25a2c3;
+     text-align: center;
+     
+     
+}
+
+p{
+ font-size: 1.2rem;
+font-family: 'Open Sans';
+color: #393d41;
+line-height: 2;
+width: 400px;
+text-align: center;
+margin: 0 auto;
+margin-bottom: 20px;
+}
+
+h3{
+     font-size: 25px;
+     font-family: 'Montserrat';
+     font-weight: bold;
+     color: #25a2c3;
+     text-align: center;
+     margin-bottom: 20px;
+     margin-top: 60px;
+     margin-left: -25px;
+     padding-left: 10px;
+     text-align: center;
+}
+
+.logonotebook>img{
+     border-radius: 50%;
+    margin-bottom: 30px;
+    width: 350px;
+    margin-left: 50px;
+}
+
+button{
+    
+    margin: 20px 20px 20px 125px;
+    color: white;
+    background-color: rgb(224, 88, 25);
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    font-family: '  Open Sans';
+    font-weight: bold;
+    border-color: rgb(240, 248, 255);
+    border-radius: 8%;
+    
+}
+
+h2{
+     font-size: 35px;
+     text-align: center;
+     color: white;
+     margin-bottom: 20px;
+     
+     
+     
+     
+}
+.RiquadroOrange{background-color: rgb(243, 85, 12);
+height: 350px;
+margin-top: 50px;
+
+
+}
+
+.EpicodeGarantisce p{
+     color:white;
+     margin-top: 30px;
+    }
+
+    .iltuopc{ margin-bottom: -50px;}
+
+    .Iltuopc> img {
+         width: 400px;
+         margin-left: 0px;
+        
+        
+        }
+
+        footer{ background-color: #61d2f1;
+        color: white;
+    text-align: center;
+    
+     }
+
+        div a{ color: white;
+            width: 300px;
+            word-wrap: normal;
+        }
+
+        .ViaEpicode p { color: white;
+        margin: 20px 0 20px 0}
+
+
+        .Bordo{
+            border-radius: 3%;
+             border: solid 1px; 
+        border-color: #dee1e3;
+        width: 405px;
+        margin: 50px 0px 20px 25px; 
+        
+    }
+
+    footer { width:450px ;
+    height: 300px;
+    }
+
