@@ -7,7 +7,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
     vertical-align: baseline;
-    width: 450px;
+    
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -110,33 +110,29 @@ button{
     
     margin: 20px 20px 20px 125px;
     color: white;
-    background-color: rgb(224, 88, 25);
+    background-color: rgb(254, 69, 35);
     width: 200px;
     height: 50px;
     font-size: 25px;
     font-family: '  Open Sans';
     font-weight: bold;
     border-color: rgb(240, 248, 255);
-    border-radius: 8%;
-    
+    border-radius: 8%;    
 }
+
 
 h2{
      font-size: 35px;
      text-align: center;
      color: white;
-     margin-bottom: 20px;
-     
-     
-     
-     
+     margin-bottom: 20px;    
 }
-.RiquadroOrange{background-color: rgb(243, 85, 12);
+
+.RiquadroOrange{background-color: rgb(238, 33, 41);
 height: 350px;
 margin-top: 50px;
-
-
 }
+
 
 .EpicodeGarantisce p{
      color:white;
@@ -145,38 +141,37 @@ margin-top: 50px;
 
     .iltuopc{ margin-bottom: -50px;}
 
+
+
     .Iltuopc> img {
          width: 400px;
-         margin-left: 0px;
-        
-        
+         margin-left: 0px;    
         }
 
-        footer{ background-color: #61d2f1;
+
+        footer{ background-color: rgb(34, 170, 204);
         color: white;
     text-align: center;
-    
+    height: 300px;
+    line-height: 2;
      }
+
 
         div a{ color: white;
             width: 300px;
             word-wrap: normal;
         }
 
+
         .ViaEpicode p { color: white;
         margin: 20px 0 20px 0}
-
 
         .Bordo{
             border-radius: 3%;
              border: solid 1px; 
         border-color: #dee1e3;
-        width: 405px;
-        margin: 50px 0px 20px 25px; 
-        
+        width: 400px;
+        margin: 50px 0px 20px 25px;         
     }
 
-    footer { width:450px ;
-    height: 300px;
-    }
-
+    hr{width: 180px;}
